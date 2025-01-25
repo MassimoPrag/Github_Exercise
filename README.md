@@ -1,2 +1,2 @@
-# Github_exersize
+# Github_Exersice
 for class
